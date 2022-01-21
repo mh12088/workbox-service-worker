@@ -1,6 +1,6 @@
 {
-    "name": "Watsons VN PWA",
-    "short_name": "WTCVN",
+    "name": "PWA Testing",
+    "short_name": "PWATESTING",
     "theme_color": "#009aa9",
     "background_color": "#009aa9",
     "display": "standalone",
